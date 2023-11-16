@@ -4,7 +4,7 @@
 	position: relative;
 }
 .content h4 {
-	font-size: 52px;
+	font-size: 46px;
 	color: #fff;
 	position: absolute;
 	transform: translate(0%, -130%);
@@ -68,10 +68,11 @@
 	 margin: 100px 0px 20px 0px;
 	 padding-bottom:90px;
 	font-size: 42px;
+	line-height:60px;
 	color: #fff;
 	position: absolute;
 	transform: translate(0%, -130%);
-	top:40px;
+	top:60px;
 
 }
 #subcontenet{
