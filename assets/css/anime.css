@@ -4,7 +4,7 @@
 	position: relative;
 }
 .content h4 {
-	font-size: 46px;
+	font-size: 44px;
 	color: #fff;
 	position: absolute;
 	transform: translate(0%, -130%);
@@ -67,7 +67,7 @@
 .content h4 {
 	 margin: 100px 0px 20px 0px;
 	 padding-bottom:90px;
-	font-size: 42px;
+	font-size: 38px;
 	line-height:60px;
 	color: #fff;
 	position: absolute;
